@@ -1,3 +1,2 @@
 # os212
-Welcome
-Ilhan Firka Najia's Operating System repository
+Welcome to Ilhan Firka Najia's Operating System repository
