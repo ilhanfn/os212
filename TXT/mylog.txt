@@ -20,3 +20,4 @@ ZCZC W02 33 L32 YouTube: study, "Shell Scripting Crash Course - Beginner Level"
 ZCZC W02 08 L32 Youtube: study, ""C" Programming Language: Brian Kernighan - Computerphile"
 ZCZC W03 100 L02 ZOOM meetings related
 ZCZC W03 80 L13 Assignment #03: Assignment Number 4-8
+ZCZC W03 40 L13 Assignment #03: Assignment Number 3 & 9
