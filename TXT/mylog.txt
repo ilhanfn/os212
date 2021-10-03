@@ -21,3 +21,6 @@ ZCZC W02 08 L32 Youtube: study, ""C" Programming Language: Brian Kernighan - Com
 ZCZC W03 100 L02 ZOOM meetings related
 ZCZC W03 80 L13 Assignment #03: Assignment Number 4-8
 ZCZC W03 40 L13 Assignment #03: Assignment Number 3 & 9
+ZCZC W04 45 L05 Quiz related
+ZCZC W04 100 L02 ZOOM meetings related
+ZCZC W04 90 L09 Assignment in General
