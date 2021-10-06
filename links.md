@@ -19,4 +19,12 @@ What makes this video is interestin is he did the tutorial on vscode, looks grea
   
 4. [What is virtual memory? – Gary explains](https://www.youtube.com/watch?v=2quKyPnUShQ)<br>
 This video tells about memory, focusing on virtual memory. He makes us easy to understanding the fundamentals of virtual memory.<br>
-This video looks interesting because the way he visualize his lesson that makes us easier to understand.
+This video looks interesting because the way he visualize his lesson that makes us easier to understand.  
+  
+5. [Logical and Physical Address in Operating System](https://www.geeksforgeeks.org/logical-and-physical-address-in-operating-system/)<br>
+This article show the definition, differencies, and comparison between physical address and logical address.<br>
+What makes this article interesting because they show the differencies so people know what will they use.  
+  
+6. [Paging in Operating System](https://www.geeksforgeeks.org/paging-in-operating-system/)<br>
+This article wrote about fundamentals of paging, how they works, and show the example.<br>
+What makes this article interesting because the way they wrote looks so easier to understand.
