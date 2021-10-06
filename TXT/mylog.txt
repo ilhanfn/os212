@@ -24,3 +24,7 @@ ZCZC W03 40 L13 Assignment #03: Assignment Number 3 & 9
 ZCZC W04 45 L05 Quiz related
 ZCZC W04 100 L02 ZOOM meetings related
 ZCZC W04 90 L09 Assignment in General
+ZCZC W05 45 L05 Quiz related
+ZCZC W05 100 L02 ZOOM meetings related
+ZCZC W05 100 L09 Assignment in General
+ZCZC W05 11 L32 YouTube: study, "What is virtual memory? – Gary explains"
