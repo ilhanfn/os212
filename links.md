@@ -15,4 +15,8 @@ The interesting thing on this article was they provide the online compiler to do
 
 3. [Shell Scripting Crash Course - Beginner Level](https://www.youtube.com/watch?v=v-F3YLd6oMw)<br>
 This video show the tutorial how to do bash scripting. He gave us the lessons with great approach method. For some people, bash scripting looks a little bit hard to learn but i think if we learn this with great fundamentals, that must be good to go.<br>
-What makes this video is interestin is he did the tutorial on vscode, looks great
+What makes this video is interestin is he did the tutorial on vscode, looks great  
+  
+4. [What is virtual memory? – Gary explains](https://www.youtube.com/watch?v=2quKyPnUShQ)<br>
+This video tells about memory, focusing on virtual memory. He makes us easy to understanding the fundamentals of virtual memory.<br>
+This video looks interesting because the way he visualize his lesson that makes us easier to understand.
