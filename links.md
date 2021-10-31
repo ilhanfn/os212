@@ -28,3 +28,18 @@ What makes this article interesting because they show the differencies so people
 6. [Paging in Operating System](https://www.geeksforgeeks.org/paging-in-operating-system/)<br>
 This article wrote about fundamentals of paging, how they works, and show the example.<br>
 What makes this article interesting because the way they wrote looks so easier to understand.
+  
+7. [Fork() in C Programming Language](https://www.section.io/engineering-education/fork-in-c-programming-language/)<br>
+This article tells about how fork() method works, this article looks good as a visual.  
+  
+8. [Concurrency in Operating System](https://eng.libretexts.org/Courses/Delta_College/Operating_System%3A_The_Basics/05%3A_Process_Synchronization/5.1%3A_Introduction_to_Concurrency#:~:text=in%20Operating%20System-,Concurrency%20in%20Operating%20System,memory%20or%20through%20message%20passing.)<br>
+This article explain about the fundamentals of concurrency.<br>
+what makes this article good is how they make simple but clear explained.  
+  
+9. [Operating System: Threads and Concurrency](https://medium.com/@akhandmishra/operating-system-threads-and-concurrency-aec2036b90f8)<br>
+This article explain about threads and concurrency as well.<br>
+He explained through the article with clear implementation that makes me clearly understand, not all, but already looks great. 
+  
+10. [Process Management (Processes and Threads)](https://www.youtube.com/watch?v=OrM7nZcxXZU)<br>
+This video explain about threads and process in process management operating system.<br>
+He explained with easy implementation so i can keep up with the lecture, simple but important.  
