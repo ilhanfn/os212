@@ -43,3 +43,7 @@ He explained through the article with clear implementation that makes me clearly
 10. [Process Management (Processes and Threads)](https://www.youtube.com/watch?v=OrM7nZcxXZU)<br>
 This video explain about threads and process in process management operating system.<br>
 He explained with easy implementation so i can keep up with the lecture, simple but important.  
+  
+11. [Process Synchronization](https://www.youtube.com/watch?v=ph2awKa8r5Y)<br>
+This Video explain about synchronization so concise and detailed.<br>
+They explained with implementation so i can understand so good
