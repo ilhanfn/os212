@@ -47,3 +47,11 @@ He explained with easy implementation so i can keep up with the lecture, simple 
 11. [Process Synchronization](https://www.youtube.com/watch?v=ph2awKa8r5Y)<br>
 This Video explain about synchronization so concise and detailed.<br>
 They explained with implementation so i can understand so good
+  
+12. [Process Scheduling](https://www.youtube.com/watch?v=2h3eWaPx8SA)<br>
+This video explain about scheduling in operating system.<br>
+They explained this very well.  
+  
+13. [Operating System - Process Scheduling](https://www.tutorialspoint.com/operating_system/os_process_scheduling.htm)<br>
+This article tells about scheduling works.<br>
+Very well and understandable explained.
