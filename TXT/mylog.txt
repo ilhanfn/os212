@@ -35,3 +35,6 @@ ZCZC W06 07 L32 YouTube: study, "Process Management (Processes and Threads)"
 ZCZC W07 100 L02 ZOOM meetings related
 ZCZC W07 100 L09 Assignment in General
 ZCZC W07 21 L32 YouTube: study, "Process Synchronization"
+ZCZC W08 240 L09 Assignment in General
+ZCZC W08 100 ZOOM meetings related
+ZCZC W08 11 L32 YouTube: study, "Process Scheduling"
