@@ -55,3 +55,11 @@ They explained this very well.
 13. [Operating System - Process Scheduling](https://www.tutorialspoint.com/operating_system/os_process_scheduling.htm)<br>
 This article tells about scheduling works.<br>
 Very well and understandable explained.
+  
+14. [L-5.1: Memory Management and Degree of Multiprogramming | Operating System](https://www.youtube.com/watch?v=eESIFJz7mJw)<br>
+This video explain about storage management.<br>
+very well and detailed explained.
+
+15. [What is the Difference Between UEFI and Legacy?](https://linuxhint.com/difference-between-uefi-and-legacy/)<br>
+This article show the difference between uefi and legacy bios.<br>
+looks simple but understandable so well that makes us easier to understand
