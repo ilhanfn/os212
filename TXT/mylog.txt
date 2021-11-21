@@ -38,3 +38,6 @@ ZCZC W07 21 L32 YouTube: study, "Process Synchronization"
 ZCZC W08 240 L09 Assignment in General
 ZCZC W08 100 ZOOM meetings related
 ZCZC W08 11 L32 YouTube: study, "Process Scheduling"
+ZCZC W09 80 L02 ZOOM meetings related
+ZCZC W09 25 L32 YouTube: study, "L-5.1: Memory Management and Degree of Multiprogramming | Operating System"
+ZCZC W09 240 L09 Assignment in General 
